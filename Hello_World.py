@@ -8,3 +8,6 @@ print(f"\nDie Variable a hat den Wert: {a}")
 # 3. Issue B hinzufügen
 b = 8
 print(f"\nDie Variable b hat den Wert: {b}")
+
+# Änderung
+c = 2
